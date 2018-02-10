@@ -3,11 +3,14 @@
   "defaults": {
     "textures": {
       "all": "artificereborn:blocks/basalt/basalt"
-    },
-    "model": "minecraft:cube"
+    }
   },
   "variants": {
-    "normal": [{}],
-    "inventory": [{}]
+    "normal": [{
+      "model": "cube_all"
+    }],
+    "inventory": [{
+      "model": "cube_all"
+    }]
   }
 }
