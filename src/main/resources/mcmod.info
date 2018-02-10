@@ -1,0 +1,10 @@
+[{
+"modid": "artificereborn",
+"name": "Artifice Reborn",
+"description": "A remake of the original Artifice mod",
+"version": "${version}",
+"mcversion": "${mcversion}",
+"credits": "Created by fallentaiyoko, based on the original by Shukaro",
+"authorList": [ "fallentaiyoko", "Shukaro" ],
+"dependencies": [ "mod_MinecraftForge" ]
+}]

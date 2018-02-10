@@ -1,0 +1,13 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "artificereborn:blocks/basalt/basalt"
+    },
+    "model": "minecraft:cube"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}
